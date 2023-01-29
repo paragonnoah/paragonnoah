@@ -9,11 +9,11 @@
 - - 👀 https://github.com/paragonnoah
 - - 👀 https://www.linkedin.com/in/noah-mugaya
 - - 👀 https://twitter.com/NoahParagon
-- - 👀 https:://wa.me/254758867491
+- - 👀 https://wa.me/254758867491
 - - 👀 https://medium.com/@noahmugaya
 - - 👀 https://dev.to/paragonnoah
 - - 👀 https://www.youtube.com/channel/UChGouU5n9gkVx1z68Pm2wqw
-- - 👀 https:://www.facebook.com/Noah-Mugaya
+- - 👀 https://www.facebook.com/Noah-Mugaya
 - - 👀 https://www.instagram.com/paragonnoah/?hl=en
 
 <!---
